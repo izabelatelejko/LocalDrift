@@ -40,10 +40,10 @@ Each stream can be genearted with __local__ or __global__ drift:
 
 **Tree-based streams**: `emerging_branch`, `prune_regrowth_branch`, `prune_growth_new_branch`, `class_emerging_rt`
 
-## Methods
+## Methods for detecting local/global change in Data Stream
 
 * CDLEEDS (Change Detection for Local Explainability in Evolving Data Streams) 
 
-## External sources:
+## External sources
 
 1. [Project's Repository developed for "A comprehensive analysis of concept drift locality in data streams"](https://github.com/gabrieljaguiar/locality-concept-drift.git)
