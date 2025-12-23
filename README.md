@@ -46,8 +46,4 @@ Each stream can be genearted with __local__ or __global__ drift:
 
 ## External sources:
 
-1. Project's Repository developed for "A comprehensive analysis of concept drift locality in data streams"
-
-```
-git subtree add --prefix=external/locality-concept-drift https://github.com/gabrieljaguiar/locality-concept-drift.git main --squash
-```
+1. [Project's Repository developed for "A comprehensive analysis of concept drift locality in data streams"](https://github.com/gabrieljaguiar/locality-concept-drift.git)
